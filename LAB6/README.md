@@ -538,18 +538,6 @@ README.md được dùng để giới thiệu nội dung và cách tổ chức b
 
 Theo tài liệu LAB6, cấu hình pfSense cuối cùng cần được xuất thành `config.xml` để nộp kèm khi hoàn thành.
 
-## Phần được miễn
-
-Không thực hiện hai kịch bản sau theo yêu cầu của giảng viên:
-
-- Kịch bản 6: So sánh Block và Reject.
-- Kịch bản 7: Đọc Firewall Log và State Table.
-
-Phần giải thích lý thuyết về Firewall Log và State Table vẫn có thể được sử dụng khi phân tích cơ chế hoạt động của pfSense.
-
-## Video demo
-
-Chưa bổ sung. Video sẽ được cập nhật sau khi hoàn thiện quá trình kiểm thử.
 
 ## Lưu ý
 
